@@ -1,9 +1,22 @@
 {
-  "latest": "1.5.0",
-  "minSupported": "1.5.0",
-  "notes": "Add Category features",
-  "urls": {
+  "version": "1.5.0",
+  "minVersion": "1.5.0",
+  "updateUrl": {
     "ios": "https://apps.apple.com/vn/app/cinebuzz/id6748096782",
-    "android": "https://play.google.com/store/apps/details?id=com.yourapp"
+    "android": "https://play.google.com/store/apps/details?id=com.cinebuzz.app"
+  },
+  "releaseNotes": [
+    "NEW: Smart movie recommendations based on your viewing history",
+    "NEW: Push notifications for watchlist reminders",
+    "IMPROVED: Faster app performance and smoother animations",
+    "IMPROVED: Enhanced search with better filters",
+    "FIXED: Notification issues on iOS 16+",
+    "FIXED: Various bug fixes and stability improvements"
+  ],
+  "isForceUpdate": false,
+  "lastUpdated": "2025-01-15T10:00:00Z",
+  "downloadUrl": {
+    "ios": "https://apps.apple.com/app/cinebuzz/id123456789",
+    "android": "https://play.google.com/store/apps/details?id=com.cinebuzz.app"
   }
 }
