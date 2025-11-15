@@ -1,6 +1,6 @@
 {
-  "version": "1.5.0",
-  "minVersion": "1.3.0",
+  "version": "1.3.0",
+  "minVersion": "1.0.0",
   "updateUrl": {
     "ios": "https://apps.apple.com/vn/app/cinebuzz/id6748096782",
     "android": "https://play.google.com/store/apps/details?id=com.cinebuzz.app"
