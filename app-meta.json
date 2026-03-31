@@ -1,5 +1,5 @@
 {
-  "version": "2.0",
+  "version": “2.1”,
   "minVersion": "1.6.0",
   "updateUrl": {
     "ios": "https://apps.apple.com/vn/app/cinebuzz/id6748096782",
@@ -8,12 +8,12 @@
   "releaseNotes": [
    "",
     "🆕 NEW FEATURES:",
-    "• Notification Center — get notified for likes, comments & follows",
-    "• Movie Collections — browse iconic franchises & film series",
+    "• AI Chat — ask 'What to Watch Tonight?' and get personalized picks",
+    "• Send Feedback — report bugs or request features from your profile",
     "Update now for the best experience! 🚀"
   ],
   "isForceUpdate": false,
-  "lastUpdated": "2026-03-9T7:37:00Z",
+  "lastUpdated": "2026-03-31T8:37:00Z",
   "downloadUrl": {
     "ios": "https://apps.apple.com/app/cinebuzz/id123456789"
   }
