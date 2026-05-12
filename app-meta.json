@@ -1,20 +1,19 @@
 {
-  "version": "2.2.1",
-  "minVersion": "1.8.0",
+  "version": “2.2.2”,
+  "minVersion": “1.8.0”,
   "updateUrl": {
     "ios": "https://apps.apple.com/vn/app/cinebuzz/id6748096782",
     "android": null
   },
   "releaseNotes": [
-   "",
     "🆕 NEW FEATURES:",
-    "• Weekly Digest — get a weekly summary of your movie activity",
-    "• Release Calendar — browse upcoming movies and TV shows by month",
-    "• Taste Profile — discover your personal movie taste and top genres",
+    "• CineBuzz Wrapped — your mid-year movie stats in a beautiful 6-slide review",
+    "• Community Hot — see what movies CineBuzz users are saving this week",
+    "• Daily Movie Trivia — 5 free questions/day, earn points for correct answers",
     "Update now for the best experience! 🚀"
   ],
   "isForceUpdate": false,
-  "lastUpdated": "2026-04-30T8:37:00Z",
+  "lastUpdated": "2026-05-13T8:37:00Z",
   "downloadUrl": {
     "ios": "https://apps.apple.com/app/cinebuzz/id123456789"
   }
