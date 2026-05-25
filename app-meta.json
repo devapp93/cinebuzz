@@ -1,19 +1,20 @@
 {
-  "version": "2.2.2",
-  "minVersion": "1.8.0",
+  "version": “2.3.0”,
+  "minVersion": “1.9.0”,
   "updateUrl": {
     "ios": "https://apps.apple.com/vn/app/cinebuzz/id6748096782",
     "android": null
   },
   "releaseNotes": [
     "🆕 NEW FEATURES:",
-    "• CineBuzz Wrapped — your mid-year movie stats in a beautiful 6-slide review",
-    "• Community Hot — see what movies CineBuzz users are saving this week",
-    "• Daily Movie Trivia — 5 free questions/day, earn points for correct answers",
+    "• Taste DNA — AI analyzes your watch history and reveals your cinematic personality",
+    "• Movie Diary — log every film you watch with mood, rating, and personal notes",
+    "• Cinematic Passport — explore all the countries you've watched films from",
+    "• Streaming Alerts — get notified when a saved movie lands on your platform",
     "Update now for the best experience! 🚀"
   ],
   "isForceUpdate": false,
-  "lastUpdated": "2026-05-13T8:37:00Z",
+  "lastUpdated": "2026-05-26T6:37:00Z",
   "downloadUrl": {
     "ios": "https://apps.apple.com/app/cinebuzz/id123456789"
   }
