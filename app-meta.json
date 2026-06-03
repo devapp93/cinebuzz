@@ -1,5 +1,5 @@
 {
-  "version": "2.3.0",
+  "version": "2.4.0",
   "minVersion": "1.9.0",
   "updateUrl": {
     "ios": "https://apps.apple.com/vn/app/cinebuzz/id6748096782",
@@ -7,14 +7,13 @@
   },
   "releaseNotes": [
     "🆕 NEW FEATURES:",
-    "• Taste DNA — AI analyzes your watch history and reveals your cinematic personality",
-    "• Movie Diary — log every film you watch with mood, rating, and personal notes",
-    "• Cinematic Passport — explore all the countries you've watched films from",
-    "• Streaming Alerts — get notified when a saved movie lands on your platform",
+    "• Daily Pick — one hand-picked movie recommendation on your Home screen every day",
+    "• Swipe to Discover — Tinder-style cards to find your next favorite film",
+    "• Director/Actor Follow — follow filmmakers and get notified when they release new movies",
     "Update now for the best experience! 🚀"
   ],
   "isForceUpdate": false,
-  "lastUpdated": "2026-05-26T6:37:00Z",
+  "lastUpdated": "2026-06-04T7:37:00Z",
   "downloadUrl": {
     "ios": "https://apps.apple.com/app/cinebuzz/id123456789"
   }
