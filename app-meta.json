@@ -1,19 +1,18 @@
 {
-  "version": "2.4.0",
-  "minVersion": "1.9.0",
+  "version": "2.4.1",
+  "minVersion": "2.0.0",
   "updateUrl": {
     "ios": "https://apps.apple.com/vn/app/cinebuzz/id6748096782",
     "android": null
   },
   "releaseNotes": [
     "🆕 NEW FEATURES:",
-    "• Daily Pick — one hand-picked movie recommendation on your Home screen every day",
-    "• Swipe to Discover — Tinder-style cards to find your next favorite film",
-    "• Director/Actor Follow — follow filmmakers and get notified when they release new movies",
+    "• Movie Night — schedule a watch night for your Film Club, RSVP with friends, and get a reminder before showtime",
+    "• Film Club for everyone — Free users can now host 1 club (up to 5 members); Premium hosts unlimited clubs with 10 members each",
     "Update now for the best experience! 🚀"
   ],
   "isForceUpdate": false,
-  "lastUpdated": "2026-06-04T7:37:00Z",
+  "lastUpdated": "2026-07-04T7:37:00Z",
   "downloadUrl": {
     "ios": "https://apps.apple.com/app/cinebuzz/id123456789"
   }
